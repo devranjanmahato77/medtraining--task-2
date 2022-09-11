@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid black;
+    
+    
+
+}
+.row{
+    border:1px solid red;
+    
+}
+.col-1{
+    border:1px solid blue;
+    
+}
+.col{
+    border:1px solid green; 
+    
+}
+button#dropdownMenuButton {
+    font-size: small;
+    color: white;
+}
